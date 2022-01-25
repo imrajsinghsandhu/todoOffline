@@ -3,7 +3,8 @@
  */
 
 // the Rails API endpoint
-const baseURL = `${process.env.REACT_APP_API_URL}/api/version1/todos`;
+// const baseURL = `${process.env.REACT_APP_API_URL}/api/version1/todos`;
+const baseURL = "http://localhost:3000/api/version1/todos";
 
 // the function to GET the todos
 export const loadTodos = async () => {
