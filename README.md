@@ -10,7 +10,7 @@ device.
 6. Open another terminal, and cd into the same folder as stated in (4)
 7. Run the following command - “ruby bin\rails server” if using Windows, and “rails server” if
 using Linux terminal
-8. In the window that opens as a result of (4), refresh this page, after the backend server in (7) has loaded.
+8. In the window that opens as a result of (5), refresh this page, after the backend server in (7) has loaded.
 9. You should be able to see the following, less the already populated fields.
 10. You can add your to-do items in the Add a todo section above. Note that tagging your
 to-do item is mandatory.
